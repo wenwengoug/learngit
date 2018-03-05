@@ -1,3 +1,3 @@
 
 print("Hello,python!")
-print"Hello,python!")
+print("Modify by GitHub!")
